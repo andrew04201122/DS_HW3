@@ -1,4 +1,4 @@
-# DS_HW3
+# Graph node classification
 
 go to sample_code_and_dataset folder
 ```console
